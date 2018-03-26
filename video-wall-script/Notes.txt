@@ -1,0 +1,3 @@
+Files must sit along side Ruby script.
+
+Create 'output' directory for files to be copied into.
